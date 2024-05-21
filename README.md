@@ -12,7 +12,7 @@ Turns "LastName, FirstName" into "FirstName LastName"
 
 
 
-Rearrange (Miguel Cortez)
+Reordenar
 =========
 
 este modulo es para reordenar nombres.
