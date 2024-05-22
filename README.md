@@ -16,3 +16,5 @@ Reordenar
 =========
 
 este modulo es para reordenar nombres.
+
+llamar 'reaarange_name("Turing, Alan")' devolvera '"Alan Turing"'
